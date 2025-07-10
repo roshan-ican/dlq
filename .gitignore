@@ -1,0 +1,18 @@
+# .gitignore
+
+# Node.js
+node_modules/
+npm-debug.log
+
+# React/Vite
+build/
+dist/
+
+# Environment variables
+.env
+
+# macOS
+.DS_Store
+
+# Docker
+*.env
